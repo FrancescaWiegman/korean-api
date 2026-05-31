@@ -1,0 +1,72 @@
+[
+  {
+    "letter": "ㄱ",
+    "romanization": "g/k",
+    "examples": ["가", "고", "그"]
+  },
+  {
+    "letter": "ㄴ",
+    "romanization": "n",
+    "examples": ["나", "노", "니"]
+  },
+  {
+    "letter": "ㄷ",
+    "romanization": "d/t",
+    "examples": ["다", "도", "다"]
+  },
+  {
+    "letter": "ㄹ",
+    "romanization": "r/l",
+    "examples": ["라", "로", "리"]
+  },
+  {
+    "letter": "ㅁ",
+    "romanization": "m",
+    "examples": ["마", "모", "미"]
+  },
+  {
+    "letter": "ㅂ",
+    "romanization": "b/p",
+    "examples": ["바", "보", "비"]
+  },
+  {
+    "letter": "ㅅ",
+    "romanization": "s",
+    "examples": ["사", "소", "시"]
+  },
+  {
+    "letter": "ㅇ",
+    "romanization": "ng",
+    "examples": ["아", "오", "이"]
+  },
+  {
+    "letter": "ㅈ",
+    "romanization": "j",
+    "examples": ["자", "조", "지"]
+  },
+  {
+    "letter": "ㅊ",
+    "romanization": "ch",
+    "examples": ["차", "초", "집"]
+  },
+  {
+    "letter": "ㅋ",
+    "romanization": "k",
+    "examples": ["코", "코", "키"]
+  },
+  {
+    "letter": "ㅌ",
+    "romanization": "t",
+    "examples": ["타", "퇴", "티"]
+  },
+  {
+    "letter": "ㅍ",
+    "romanization": "p",
+    "examples": ["파", "포", "픽"]
+  },
+  {
+    "letter": "ㅎ",
+    "romanization": "h",
+    "examples": ["하", "호", "희"]
+  }
+]
